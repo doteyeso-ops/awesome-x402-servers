@@ -25,6 +25,8 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* RevRule by Payload - Turns revenue events into auditable economic entitlements: recoupment, splits, thresholds. The "what happens after an x402 payment" layer. $99 one-time API. [Console](https://payloadhq.github.io/revrule-console/) [Github](https://github.com/Payloadhq/payload-flow)
+* callx402 by Payload - Open-source action layer for agentic commerce: diagnose, rescue, route, and execute x402 payments from one command. Powered by Veyline. [Github](https://github.com/Payloadhq/callx402)
 
 ---
 
